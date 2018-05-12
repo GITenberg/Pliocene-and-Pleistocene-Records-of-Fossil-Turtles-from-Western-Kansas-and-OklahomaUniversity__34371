@@ -1,0 +1,33 @@
+_repo: Pliocene-and-Pleistocene-Records-of-Fossil-Turtles-from-Western-Kansas-and-OklahomaUniversity__34371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galbreath, Edwin C. (Edwin Carter)
+    birthdate: 1913
+    deathdate: 1989
+    gutenberg_agent_id: '36982'
+    url: http://www.gutenberg.org/2009/agents/36982
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34371'
+  lccn: '48047716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turtles, Fossil'
+- !lcc 'QH'
+title: 'Pliocene and Pleistocene Records of Fossil Turtles from Western Kansas and
+  Oklahoma
+
+  University of Kansas Publications Museum of Natural History Volume 1'
+url: http://www.gutenberg.org/ebooks/34371
